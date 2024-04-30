@@ -1,2 +1,2 @@
 # CASA0002
-This is repo for the code of CASA0002 Urban Simulation
+This is the repo for the assessment of CASA0002 Urban Simulation
